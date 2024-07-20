@@ -1,8 +1,9 @@
+![logo](https://github.com/PradeepJangir007/PradeepJangir007/blob/main/img.jpg?raw=true)
 <h1 align="center">Hi 👋, I'm Pradeep Jangir</h1>
 <h3 align="center">A passionate data scientist from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pradeepjangir007&label=Profile%20views&color=0e75b6&style=flat" alt="pradeepjangir007" /> </p>
-
+<img align="right" alt="gif" width="350" src="https://i.pinimg.com/originals/fc/71/63/fc71635c7f1b09ed30413f59bb749582.gif">
 - 🌱 I’m currently learning **Neural Networks, Machine learning**
 
 - 📫 How to reach me **Pradeepjangir.ml007@gmail.com**
